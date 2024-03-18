@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: D.Amarnath Reddy</H3>
 <H3>ENTER YOUR REGISTER NO: 212221240012</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:3/12/24</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
